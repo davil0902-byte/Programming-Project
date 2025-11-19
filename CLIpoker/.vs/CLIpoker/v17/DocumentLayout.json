@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CLIpoker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C72C2D-7EB4-4C7E-A738-0B8559A6E47F}|CLIpoker.vcxproj|C:\\Users\\user\\source\\repos\\CLIpoker\\method.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69C72C2D-7EB4-4C7E-A738-0B8559A6E47F}|CLIpoker.vcxproj|solutionrelative:method.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C72C2D-7EB4-4C7E-A738-0B8559A6E47F}|CLIpoker.vcxproj|C:\\Users\\user\\source\\repos\\CLIpoker\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69C72C2D-7EB4-4C7E-A738-0B8559A6E47F}|CLIpoker.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C72C2D-7EB4-4C7E-A738-0B8559A6E47F}|CLIpoker.vcxproj|C:\\Users\\user\\source\\repos\\CLIpoker\\method.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69C72C2D-7EB4-4C7E-A738-0B8559A6E47F}|CLIpoker.vcxproj|solutionrelative:method.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "method.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CLIpoker\\method.c",
+              "RelativeDocumentMoniker": "method.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CLIpoker\\method.c",
+              "RelativeToolTip": "method.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-09T02:46:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "method.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CLIpoker\\method.h",
+              "RelativeDocumentMoniker": "method.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CLIpoker\\method.h",
+              "RelativeToolTip": "method.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-09T02:45:34.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CLIpoker\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CLIpoker\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-09T01:59:21.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
